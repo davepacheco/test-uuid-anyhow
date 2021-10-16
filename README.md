@@ -28,4 +28,4 @@ chain 2: InvalidLength { expected: Any([36, 32]), found: 3 }
 
 ```
 
-See uuid-rs/uuid#533 for details.
+See [uuid-rs/uuid#533](https://github.com/uuid-rs/uuid/issues/533) for details.

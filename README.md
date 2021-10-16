@@ -1,6 +1,6 @@
 Output of this program:
 
-```rust
+```
 top-level (anyhow) error:
      formatted: parsing
     alt format: parsing: invalid length: expected one of [36, 32], found 3: invalid length: expected one of [36, 32], found 3
